@@ -1,0 +1,7 @@
+.env
+node_modules/
+output.json
+aws/
+awscliv2.zip
+function.zip
+src/.zip
