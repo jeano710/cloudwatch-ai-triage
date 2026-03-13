@@ -1,1 +1,5 @@
+# Cloudwatch Ai Triage
+
 AWS Lambda function that triages CloudWatch alarms. Pulls log context, classifies severity by prompting Claude and routes critical alerts to Slack. Project was desgned to introduce myself to AWS infastructure
+
+---
